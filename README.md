@@ -1,11 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/layan17/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+                                            # ABOUT ME 
+**My Interest to study Information Technology started when setting up blogger was a trend.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-layan17
+I will be graduation with an Information Degree in May 2019 from Minnesota State University, Mankato
 
-[Link](https://nairarule.com/)
+My most recent work experience was an internship at Cummins Inc. where I worked as an IT Business Analyst with the IT Operation Team. I lead a "Client Software Audit project" that resulted in saving $265,000/annually for the Organization. I also test the company's URLs and Web applications to ensure that it meets the business needs and requirements. Lastly, I	analyze and interpret cost data to ensure efficient allocation of cost to each department in the organization. Technology tools I worked with includes Power BI, Microsoft Access, and Microsoft Visio.
+
 
 
 ### Markdown
