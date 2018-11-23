@@ -1,4 +1,4 @@
-# ABOUT ME 
+**## ABOUT ME **
 
 **My Interest to study Information Technology started when setting up blogger was a trend.**
 
@@ -9,7 +9,7 @@ My most recent work experience was an internship at Cummins Inc. where I worked 
 Before that, I work on a school project as System Analyst. My team and I developed a Customer Relationship Management (CRM) for a local company, Federated Insurance. I was a developer on the team and I wrote most of the SQL queries for the database. I worked with SQL developer, Microsoft Access, Microsoft Visio, Microsoft Project, and Microsoft Team. 
 
 
-## PROJECTS
+**### PROJECTS**
 
 **My Personal Interest Includes:**
 
