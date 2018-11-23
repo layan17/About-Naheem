@@ -13,9 +13,9 @@ Before that, I work on a school project as System Analyst. My team and I develop
 
 **My Personal Interest Includes:**
 
-**-Database Administrator:** I took a database class where I develop a sales database for Mississippi National River and Recreation Area, a national park in Minnsota. I create a database model that connect every entities incolves in the sales in the park. I worked with Oracle SQL to the database script and queries for accessing, maintaing and defining the data. 
+**- Database Administrator:** I took a database class where I develop a sales database for Mississippi National River and Recreation Area, a national park in Minnsota. I create a database model that connect every entities incolves in the sales in the park. I worked with Oracle SQL to the database script and queries for accessing, maintaing and defining the data. 
 
-**Project Management:** To further strengthening my project managemnet skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and share insight on trending issues in the continent. I uses Agile methodology for the development. I donate 20% of the revenue I made from google ad adense to charity homes for children that needs help. 
+**- Project Management:** To further strengthening my project managemnet skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and share insight on trending issues in the continent. I uses Agile methodology for the development. I donate 20% of the revenue I made from google ad adense to charity homes for children that needs help. 
 
 
 ### Markdown
