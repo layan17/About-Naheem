@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/layan17/resume/edit/master
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 layan17
 
-(https://nairarule.com/)
+[Link](https://nairarule.com/)
 
 
 ### Markdown
