@@ -9,6 +9,13 @@ My most recent work experience was an internship at Cummins Inc. where I worked 
 Before that, I work on a school project as System Analyst. My team and I developed a Customer Relationship Management (CRM) for a local company, Federated Insurance. I was a developer on the team and I wrote most of the SQL queries for the database. I worked with SQL developer, Microsoft Access, Microsoft Visio, Microsoft Project, and Microsoft Team. 
 
 
+## PROJECTS
+**My Personal Interest Includes:**
+**-Database Administrator:** I took a database class where I develop a sales database for Mississippi National River and Recreation Area, a national park in Minnsota. I create a database model that connect every entities incolves in the sales in the park. I worked with Oracle SQL to the database script and queries for accessing, maintaing and defining the data. 
+
+**Project Management:** To further strengthening my project managemnet skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and share insight on trending issues in the continent. I uses Agile methodology for the development. I donate 20% of the revenue I made from google ad adense to charity homes for children that needs help. 
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
