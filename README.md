@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# ABOUT ME 
 
-                                            # ABOUT ME 
 **My Interest to study Information Technology started when setting up blogger was a trend.**
 
 I will be graduation with an Information Degree in May 2019 from Minnesota State University, Mankato
 
 My most recent work experience was an internship at Cummins Inc. where I worked as an IT Business Analyst with the IT Operation Team. I lead a "Client Software Audit project" that resulted in saving $265,000/annually for the Organization. I also test the company's URLs and Web applications to ensure that it meets the business needs and requirements. Lastly, I	analyze and interpret cost data to ensure efficient allocation of cost to each department in the organization. Technology tools I worked with includes Power BI, Microsoft Access, and Microsoft Visio.
 
+Before that, I work on a school project as System Analyst. My team and I developed a Customer Relationship Management (CRM) for a local company, Federated Insurance. I was a developer on the team and I wrote most of the SQL queries for the database. I worked with SQL developer, Microsoft Access, Microsoft Visio, Microsoft Project, and Microsoft Team. 
 
 
 ### Markdown
