@@ -1,4 +1,6 @@
+<p style="text-align: center;">
 ## ABOUT ME 
+ </p>
 
 **My Interest to study Information Technology started when setting up blogger was a trend.**
 
