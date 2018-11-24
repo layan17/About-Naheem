@@ -25,5 +25,9 @@ Before that, I work on a school project as System Analyst. My team and I develop
  My Contacts
  </p> </H1>
  
- ![Image](https://en.wikipedia.org/wiki/Timeline_of_LinkedIn#/media/File:Linkedin.svg)
+ **Gmail:** tunjimikel@gmail.com
  
+ **Phone number:** 347-458-5774
+ 
+ [Linkedin] (www.linkedin.com/in/naheem-olaniyan-06b05613b)
+
