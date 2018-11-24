@@ -1,5 +1,4 @@
- **Gmail:** tunjimikel@gmail.com <h>                            </h>**Phone number:** 347-458-5774                           [Linkedin](https://www.linkedin.com/in/naheem-olaniyan-06b05613b/)
-
+<span style="font-family:Papyrus
 
 <H1> <p style="text-align: center;">
  ABOUT ME 
@@ -35,4 +34,4 @@ Projects
  **Phone number:** 347-458-5774
  
  [Linkedin](https://www.linkedin.com/in/naheem-olaniyan-06b05613b/)
-
+</span>
