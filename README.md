@@ -29,5 +29,5 @@ Before that, I work on a school project as System Analyst. My team and I develop
  
  **Phone number:** 347-458-5774
  
- [Linkedin](www.linkedin.com/in/naheem-olaniyan-06b05613b)
+ [Linkedin](https://www.linkedin.com/in/naheem-olaniyan-06b05613b/)
 
