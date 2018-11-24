@@ -18,7 +18,7 @@ Projects
 
 **- IT ANALYST:** My previous experience as an analyst as improved my skill of Understanding business and technology needs, and designing, analyzing and implementing efficient IT systems.
 
-**- Project Management:** To further strengthen my project managemnet skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and shares insight on trending issues in the continent. I use Agile methodology for the development. I donate 20% of the revenue I made from google ad adense to charity homes for children that need help. The website URL is https://nairarule.com/. 
+**- Project Management:** To further strengthen my project managemnet skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and shares insight on trending issues in the continent. I use Agile methodology for the development. I donate 20% of the revenue I made from google ad adense to charity homes for children that need help. The website URL is [https://nairarule.com/](https://nairarule.com/). 
 <H1> <p style="text-align: center;">
  My Contacts
  </p> </H1>
