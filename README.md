@@ -1,7 +1,7 @@
-##<p style="text-align: center;">
+<H1> <p style="text-align: center;">
  
 ABOUT ME 
- </p>
+ </p> </H1>
 
 **My Interest to study Information Technology started when setting up blogger was a trend.**
 
