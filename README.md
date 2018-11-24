@@ -20,23 +20,10 @@ Before that, I work on a school project as System Analyst. My team and I develop
 
 **- Project Management:** To further strengthening my project managemnet skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and share insight on trending issues in the continent. I uses Agile methodology for the development. I donate 20% of the revenue I made from google ad adense to charity homes for children that needs help. 
 
-<div class="container">
-  <form action="action_page.php">
 
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select>
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
+<H1> <p style="text-align: center;">
+ My Contacts
+ </p> </H1>
+ 
+ ![Image](https://en.wikipedia.org/wiki/Timeline_of_LinkedIn#/media/File:Linkedin.svg)
+ 
