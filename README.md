@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus
+<span style="font-family:Papyrus;
 
 <H1> <p style="text-align: center;">
  ABOUT ME 
