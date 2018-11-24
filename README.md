@@ -10,7 +10,9 @@ My most recent work experience was an internship at Cummins Inc. where I worked 
 
 Before that, I work on a school project as System Analyst. My team and I developed a Customer Relationship Management (CRM) for a local company, Federated Insurance. I was a developer on the team and I wrote most of the SQL queries for the database. I worked with SQL developer, Microsoft Access, Microsoft Visio, Microsoft Project, and Microsoft Team. 
 
-### PROJECTS
+<H1> <p style="text-align: center;">
+Projects
+ </p> </H1>
 
 **My Personal Interest Includes:**
 
