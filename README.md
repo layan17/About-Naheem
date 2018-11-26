@@ -19,7 +19,7 @@ I will be graduating with an Information Technology Degree in May 2019 from Minn
 
 My most recent work experience was an internship at Cummins Inc. where I worked as an IT Business Analyst with the IT Operation Team. I lead a "Client Software Audit project" that resulted in saving $265,000/annually for the Organization. I also test the company's URLs and Web applications to ensure that it meets the business needs and requirements. Lastly, I	analyze and interpret cost data to ensure efficient allocation of cost to each department in the organization. Technology tools I worked with Power BI, Microsoft Access, and Microsoft Visio.
 
-Before that, I work on a school group project an IT System Analyst. My team and I developed a Customer Relationship Management (CRM) for a local company, Federated Insurance. I was a developer on the team and I wrote most of the SQL queries for the database. I worked with SQL developer, Microsoft Access, Microsoft Visio, Microsoft Project, and Microsoft Team. 
+Before that, I work on a school group project as an IT System Analyst. My team and I developed a Customer Relationship Management (CRM) for a local company, Federated Insurance. I was a developer on the team and I wrote most of the SQL queries for the database. I worked with SQL developer, Microsoft Access, Microsoft Visio, Microsoft Project, and Microsoft Team. 
 <H1> <p style="text-align: center;">
 Projects
  </p> </H1>
