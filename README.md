@@ -25,11 +25,11 @@ Projects
  </p> </H1>
 **My Personal Interest Includes:**
 
-**- Database Administrator and Business Intelligence:** I took a database class where I developed a sales database for Mississippi National River and Recreation Area, a national park in Minnsota. I create a database model that connect every entities involved in the sales process in the park. I worked with Oracle SQL to create the database script and queries for accessing, maintaing and defining the data.
+**- Database Administrator and Business Intelligence:** I took a database class where I developed a sales database for Mississippi National River and Recreation Area, a national park in Minnesota. I create a database model that connect every entities involved in the sales process in the park. I worked with Oracle SQL to create the database script and queries for accessing, maintaining and defining the data.
 
 **- IT ANALYST:** My previous experience as an analyst as improved my skill of Understanding business and technology needs, and designing, analyzing and implementing efficient IT systems. I want to help businesses to define different ways technology can be used to increase productivity and growth.
 
-**- Project Management:** To further strengthen my project managemnet skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and shares insight on trending issues in the continent. I use Agile methodology for the development. I am donating 20% of the revenue I made from google ad adense to charity homes for children that need help. The website URL is [https://nairarule.com/](https://nairarule.com/). 
+**- Project Management:** To further strengthen my project management skill, I recently built a responsive a forum web platform that gives Africans voice to speak against the corruption, and shares insight on trending issues in the continent. I use Agile methodology for the development. I am donating 20% of the revenue I made from google ad adense to charity homes for children that need help. The website URL is [https://nairarule.com/](https://nairarule.com/). 
 <H1> <p style="text-align: center;">
  My Contacts
  </p> </H1>
