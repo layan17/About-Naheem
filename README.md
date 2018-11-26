@@ -1,7 +1,8 @@
 
 <body style="background-color:#e8f1ff;">
 </body>
-<p style="text-align:center" ><img src ="https://user-images.githubusercontent.com/37972518/48997267-024ce080-f115-11e8-86a4-cfa0df451eb4.png"  height="200" width="200" /></p>
+<p style="text-align:center" ><img src ="https://user-images.githubusercontent.com/37972518/48997267-024ce080-f115-11e8-86a4-cfa0df451eb4.png"  height="200" width="200" /></p>   
+[GitHub Page](https://github.com/layan17)
 
 
 <H1> <p style="text-align: center;">
@@ -20,7 +21,7 @@ Projects
  </p> </H1>
 **My Personal Interest Includes:**
 
-**- Database Administrator and Business Intelligence:** I took a database class where I developed a sales database for Mississippi National River and Recreation Area, a national park in Minnsota. I create a database model that connect every entities involved in the sales in the park. I worked with Oracle SQL to the database script and queries for accessing, maintaing and defining the data. 
+**- Database Administrator and Business Intelligence:** I took a database class where I developed a sales database for Mississippi National River and Recreation Area, a national park in Minnsota. I create a database model that connect every entities involved in the sales in the park. I worked with Oracle SQL to the database script and queries for accessing, maintaing and defining the data.
 
 **- IT ANALYST:** My previous experience as an analyst as improved my skill of Understanding business and technology needs, and designing, analyzing and implementing efficient IT systems.
 
