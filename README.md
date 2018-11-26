@@ -1,4 +1,5 @@
-![screenshot_20181126-003753 1](https://user-images.githubusercontent.com/37972518/48997267-024ce080-f115-11e8-86a4-cfa0df451eb4.png)
+<p style="text-align:center"><img src ="https://user-images.githubusercontent.com/37972518/48997267-024ce080-f115-11e8-86a4-cfa0df451eb4.png"  height="200" width="200"/></p>
+
 
 <H1> <p style="text-align: center;">
  ABOUT ME 
