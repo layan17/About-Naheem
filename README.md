@@ -25,6 +25,8 @@ Projects
  </p> </H1>
 **My Personal Interest Includes:**
 
+**- Machine Learnining and Artificial Intelligence:** I see Machine Learning (ML) and Artificail Intelligence (AI) as the catalyst for present and future business and society growth. To increase my ML and AI knowledge, I an recently doing a project that involves researching and creating deep learning model that is aimed to predict the results of European soccer competition using collected data of previous matches. I am using data mining tools and python machine learning libraries (Pandas, NumPy, Matploitlib, Scikit-Learn, Tensorflow, and Keras) to develop the deep learning model. I will be developing an Android and iOS application that users can view the predictions for upcoming games. 
+
 **- Database Administrator and Business Intelligence:** I took a database class where I developed a sales database for Mississippi National River and Recreation Area, a national park in Minnesota. I create a database model that connect every entities involved in the sales process in the park. I worked with Oracle SQL to create the database script and queries for accessing, maintaining and defining the data.
 
 **- IT ANALYST:** My previous experience as an analyst as improved my skill of Understanding business and technology needs, and designing, analyzing and implementing efficient IT systems. I want to help businesses to define different ways technology can be used to increase productivity and growth.
